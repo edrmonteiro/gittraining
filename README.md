@@ -1,0 +1,2 @@
+# gittraining
+Testing git commands
